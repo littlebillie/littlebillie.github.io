@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8755659b73f992931bff07354ec3b1127dbb99d5",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8755659b73f992931bff07354ec3b1127dbb99d5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Lil Billionaires Club",
+  "SYMBOL": "BILLIE",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lil-billionaires-club",
+  "SHOW_BACKGROUND": true
+}
